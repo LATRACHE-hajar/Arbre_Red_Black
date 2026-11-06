@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1793794220 source:c:\users\u\onedrive\bureau\myprojectsgtk3\arbre_red_black\main.cpp
+	<iostream>
+	<chrono>
+	<vector>
+	<algorithm>
+	<random>
+	<iomanip>
+
